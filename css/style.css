@@ -1,0 +1,129 @@
+/* * {
+    text-align: center;
+} */
+
+body {
+    margin: 0;
+    background: #b2d680;
+}
+
+a {
+    color: #b85900;
+    text-decoration: none;
+}
+
+a:hover {
+    color:rgb(223, 71, 71);
+}
+
+hr {
+    border: 1px dashed #849e60;
+    margin: 1em;
+    width: 75%;
+}
+
+/* .boxes {
+    column-count: 2;
+} */
+
+.text {
+    padding: 1em;
+}
+
+.bottom {
+    background-color: #dbc6b2;
+    font-weight: 600;
+    padding: 15px;
+    left: 50%;
+    text-align: center;
+    color: black;
+    justify-content: center;
+}
+
+.button {
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: #e2c67b;
+    padding: 10px;
+    margin-left: 6%;
+    transform: translate(-50%, -50%);
+    border-radius: 5px;
+    border: 1px solid black;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+}
+
+.introduction {
+    background-color: #92a9d4;
+    padding: 1em;
+    font-family: "Trirong", serif;
+    color: rgb(71, 71, 95);
+    font-size: 20px;
+}
+
+.languages {
+    column-count: 2;
+    float: none;
+    background-color: #b2d680;
+    padding: 1em;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+    color: rgb(100, 100, 73);
+    font-size: 16px;
+}
+
+.experience {
+    column-count: 2;
+    float: none;
+    background-color: #b2d680;
+    padding: 1em;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+    color: rgb(100, 100, 73);
+    font-size: 16px;
+}
+
+.skills {
+    column-count: 2;
+    float: none;
+    background-color: #b2d680;
+    padding: 1em;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+    color: rgb(100, 100, 73);
+    font-size: 16px;
+}
+
+.computer {
+    position: absolute;
+    top: 225px;
+    left: 600px;
+    height: 200px;
+    border-radius: 200px;
+    border: 3px dotted black;
+}
+
+.arch {
+    position: absolute;
+    top: 225px;
+    left: 300px;
+    height: 200px;
+}
+
+.headshot {
+    border-radius: 200px;
+}
+
+.language_image {
+    height: 100px;
+}
+
+.hacks_banner {
+    height: 100px;
+}
+
+.computer_2 {
+    height: 200px;
+}
